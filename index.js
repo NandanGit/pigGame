@@ -22,7 +22,7 @@ $('.btn-new').click(function () {
 
   $('.player-score').text('0');
   $('.player-current-score').text('0');
-  targetScore = 10;
+  targetScore = 100;
   scores = [0,0];
   roundScore = 0;
   activePlayer = 0;
