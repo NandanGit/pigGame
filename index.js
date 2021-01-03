@@ -76,7 +76,7 @@ $('.btn-new').click(function () {
 var scores,roundScore,activePlayer,targetScore,dice,playerScoreCardAnim;
 // Initializing Function
 function init() {
-  targetScore = 10;
+  targetScore = 50;
   scores = [0,0];
   roundScore = 0;
   activePlayer = 0;
